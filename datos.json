@@ -1,0 +1,17 @@
+[
+    {
+        "codigo": 1,
+        "moneda": "Euro",
+        "tasa": 0.92
+    },
+    {
+        "codigo": 2,
+        "moneda": "Peso colombiano",
+        "tasa": 4100
+    },
+    {
+        "codigo": 3,
+        "moneda": "Sol peruano",
+        "tasa": 3.75
+    }
+]
